@@ -1,0 +1,26 @@
+body {
+  background-color: #a7d0cd;
+  background-image: url("bg.jpg");
+  background-size: 1920px 1080px;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+
+h3 {
+  color: #02475e;
+  text-decoration: underline;
+}
+h1{
+  color: #02475e
+}
+
+img {
+  border-radius: 80%;
+}
