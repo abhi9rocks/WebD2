@@ -1,4 +1,48 @@
 body{
-  background-color: gold;
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+
+}
+h1{
+  width: 30%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+
+font-family: 'Montaga', serif;
+}
+h3{
+
+font-family: 'Montaga', serif;
+}
+
+.top-container{
+  background-color: #e1f4f3;
+  position:relative;
+}
+.middle-container{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+.bottom-container{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.top-cloud{
+  position:relative;
+  left: 310px;
 
 }
