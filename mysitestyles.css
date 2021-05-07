@@ -5,13 +5,14 @@ body{
 
 }
 h1{
-  width: 30%;
-  margin: 0 auto 0 auto;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
 h2{
 
 font-family: 'Montaga', serif;
+font-size: 2.5rem;
 }
 h3{
 
@@ -23,14 +24,11 @@ font-family: 'Montaga', serif;
   position:relative;
 }
 .middle-container{
-  background-color: red;
-  width: 200px;
-  height: 200px;
+  background-color:grey;
+
 }
 .bottom-container{
-  background-color: blue;
-  width: 200px;
-  height: 200px;
+  background-color:grey;
 }
 .pro{
   text-decoration: underline;
@@ -45,4 +43,8 @@ font-family: 'Montaga', serif;
   position:relative;
   left: 310px;
 
+
+}
+.profile{
+  border-radius: 50%;
 }
